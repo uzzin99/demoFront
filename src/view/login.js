@@ -1,7 +1,7 @@
 /* login.js */
 import React from 'react';
 
-const loginView = () => {
+const login= () => {
     return (
         <div>
         로그인 페이지
@@ -9,4 +9,4 @@ const loginView = () => {
     );
 };
 
-export default loginView;
+export default login;
